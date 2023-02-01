@@ -1,0 +1,8 @@
+E:\Know_IT\MS_Net\OnlineShopping\NationWebApp\obj\Debug\net6.0\NationWebApp.csproj.AssemblyReference.cache
+E:\Know_IT\MS_Net\OnlineShopping\NationWebApp\obj\Debug\net6.0\NationWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Know_IT\MS_Net\OnlineShopping\NationWebApp\obj\Debug\net6.0\NationWebApp.AssemblyInfoInputs.cache
+E:\Know_IT\MS_Net\OnlineShopping\NationWebApp\obj\Debug\net6.0\NationWebApp.AssemblyInfo.cs
+E:\Know_IT\MS_Net\OnlineShopping\NationWebApp\obj\Debug\net6.0\NationWebApp.csproj.CoreCompileInputs.cache
+E:\Know_IT\MS_Net\OnlineShopping\NationWebApp\obj\Debug\net6.0\NationWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Know_IT\MS_Net\OnlineShopping\NationWebApp\obj\Debug\net6.0\NationWebApp.RazorAssemblyInfo.cache
+E:\Know_IT\MS_Net\OnlineShopping\NationWebApp\obj\Debug\net6.0\NationWebApp.RazorAssemblyInfo.cs

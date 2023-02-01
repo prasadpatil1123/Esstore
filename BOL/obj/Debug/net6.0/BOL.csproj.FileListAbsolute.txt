@@ -1,0 +1,12 @@
+E:\Know_IT\MS_Net\OnlineShopping\BOL\bin\Debug\net6.0\BOL.deps.json
+E:\Know_IT\MS_Net\OnlineShopping\BOL\bin\Debug\net6.0\BOL.dll
+E:\Know_IT\MS_Net\OnlineShopping\BOL\bin\Debug\net6.0\BOL.pdb
+E:\Know_IT\MS_Net\OnlineShopping\BOL\obj\Debug\net6.0\BOL.csproj.AssemblyReference.cache
+E:\Know_IT\MS_Net\OnlineShopping\BOL\obj\Debug\net6.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Know_IT\MS_Net\OnlineShopping\BOL\obj\Debug\net6.0\BOL.AssemblyInfoInputs.cache
+E:\Know_IT\MS_Net\OnlineShopping\BOL\obj\Debug\net6.0\BOL.AssemblyInfo.cs
+E:\Know_IT\MS_Net\OnlineShopping\BOL\obj\Debug\net6.0\BOL.csproj.CoreCompileInputs.cache
+E:\Know_IT\MS_Net\OnlineShopping\BOL\obj\Debug\net6.0\BOL.dll
+E:\Know_IT\MS_Net\OnlineShopping\BOL\obj\Debug\net6.0\refint\BOL.dll
+E:\Know_IT\MS_Net\OnlineShopping\BOL\obj\Debug\net6.0\BOL.pdb
+E:\Know_IT\MS_Net\OnlineShopping\BOL\obj\Debug\net6.0\ref\BOL.dll
